@@ -16,3 +16,14 @@ git init
   18 git remote add origin https://github.com/techAbhiCode/github-for-devops-2.git
   19 git status
   20 git push -u origin Main
+
+ 
+  22 git add commands.txt
+  23 git add comaands.txt
+  24 git status
+  25 git commit -m "Command to be used to push on github"
+  26 git branch -M Main
+  27 git remote add origin https://github.com/techAbhiCode/github-for-devops-2.git
+  28 git push -u origin Main
+  29 git clone https://github.com/techAbhiCode/github-for-devops-2.git
+  30 git clone https://github.com/techAbhiCode/github-for-devops-02.git            
