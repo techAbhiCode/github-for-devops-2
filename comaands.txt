@@ -1,0 +1,18 @@
+git init
+   4 git add next.java
+   5 git rm --cached next.java
+   6 git status
+   7 git add next.java
+   8 git status
+   9 git commit -m "Added testing File of java"
+  10 git status
+  11 git add test.py
+  12 git commit -m "Added the test file of Python exe"
+  13 git status
+  14 git user
+  15 clear
+  16 git status
+  17 git branch -M Main
+  18 git remote add origin https://github.com/techAbhiCode/github-for-devops-2.git
+  19 git status
+  20 git push -u origin Main
